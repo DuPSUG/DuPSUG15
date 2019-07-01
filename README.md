@@ -6,7 +6,7 @@ This is an evening edition of our user group. This means we will start off with 
 
 ## Speakers
 
-As a special guest and remote speaker we will have Dongbo Wang, Dongbo is a Senior Software Development Engineer, part of the Microsoft PowerShell Team. We are also joined by Dutch MVP, Esther Barthel, and a third, yet to be announced, speaker.
+As a special guest and remote speaker we will have Dongbo Wang, Dongbo is a Senior Software Development Engineer, part of the Microsoft PowerShell Team. We are also joined by Dutch MVP, Esther Barthel,  and as a third speaker we have the Polish powerhouse: Bartosz Bielawski.
 
 ## Agenda
 
