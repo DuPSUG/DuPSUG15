@@ -1,6 +1,4 @@
-# DuPSUG15
-
-DuPSUG 15 - PowerShell Summer in Amsterdam!
+# DuPSUG 15 - PowerShell Summer in Amsterdam!
 
 ## About DuPSUG 15
 
@@ -13,17 +11,11 @@ As a special guest and remote speaker we will have Dongbo Wang, Dongbo is a Seni
 ## Agenda
 
 1700-1800 Walk in and food provided by Van Lanschot Kempen
-
 1800-1815 Opening statement and introduction of speakers - Jaap Brasser
-
 1815-1900 Azure Automation - Esther Barthel
-
 1900-1945 The on-going perf improvement work in PowerShell - Dongbo Wang
-
 1945-2000 Coffee break
-
 2000-2030 TBD - Bartosz Bielawski
-
 2030-2100 Networking and open discussion
 
 ## Location
