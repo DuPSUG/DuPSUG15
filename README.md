@@ -1,4 +1,5 @@
 # DuPSUG 15 - PowerShell Summer in Amsterdam!
+![image](https://user-images.githubusercontent.com/12744735/60628526-11ee7f00-9df2-11e9-9bcc-ee39cd17597a.png)
 
 ## About DuPSUG 15
 
