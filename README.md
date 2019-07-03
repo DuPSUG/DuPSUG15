@@ -15,7 +15,7 @@ As a special guest and remote speaker we will have Dongbo Wang, Dongbo is a Seni
 * 1815-1900 Azure Automation - Esther Barthel
 * 1900-1945 The on-going perf improvement work in PowerShell - Dongbo Wang
 * 1945-2000 Coffee break
-* 2000-2030 TBD - Bartosz Bielawski
+* 2000-2030 Pester Against Sloppiness - Bartosz Bielawski
 * 2030-2100 Networking and open discussion
 
 ## Location
